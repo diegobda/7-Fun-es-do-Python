@@ -30,11 +30,11 @@ print(dados_funcionarios)
 ## 🚀 Como usar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/diegobda/7-Fun-es-do-Python
    ```
 2. Navegue até a pasta do projeto:
    ```sh
-   cd seurepositorio
+   cd 7-Funcoes-do-Python 
    ```
 3. Execute os scripts Python conforme desejado.
     python3 01_main.py
@@ -42,4 +42,3 @@ print(dados_funcionarios)
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License** - sinta-se à vontade para usá-lo e modificá-lo! 🛠
 
-# 7-Fun-es-do-Python
